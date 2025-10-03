@@ -13,9 +13,12 @@ public class OccuernceOfString {
 			
 			if(str[i].equals("World")) {
 				count++;
+				String s = str[i];
+				System.out.println(s);
 			}
 		}
   System.out.println(count);
+  
 	}
 
 }

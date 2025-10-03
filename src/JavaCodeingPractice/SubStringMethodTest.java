@@ -15,7 +15,6 @@ public class SubStringMethodTest {
 		String Sub ="world";
 		
 		System.out.println(isStringcontains(s ,Sub));
-		
 
 	}
 
